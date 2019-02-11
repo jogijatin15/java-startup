@@ -1,6 +1,6 @@
 # java-startup
 
-## How to deploy the Hello World Java app
+## How to deploy the Hello World Java application
 
 ## Build the application
 
